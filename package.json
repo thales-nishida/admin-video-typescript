@@ -1,7 +1,7 @@
 {
   "name": "micro-videos-admin",
   "version": "1.0.0",
-  "description": "Admin interface for Micro Videos",
+  "description": "Admin interface for micro videos",
   "main": "index.js",
   "scripts": {
     "test": "jest"
